@@ -1,0 +1,18 @@
+<?php include 'navigation.php';?>
+<!DOCTYPE html>
+<html>
+<head><link rel = "stylesheet" href="styles.css">
+<style>
+body {
+  background-color: lightblue;
+}
+</style></head>
+<body >
+    <h1>Personal Portfolio</h1>
+<?php
+echo "<div class='content' align='center'><h2>Hello, my name is Chiranjib Guha.</h2>My Enrollment number is E19CSE294. I am a 3rd year Computer Science student in Bennett University.
+I am interested in the Ethical hacking part of Computer Science. I have done various certificates on the same and I am trying to become 
+a certified ethical hacker. </div>";
+?>
+</body>
+</html>
