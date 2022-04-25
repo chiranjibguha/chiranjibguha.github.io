@@ -7,7 +7,7 @@
 <div class="sidebar">
 <?php
 
-echo "<a href='index.php'>Home</a><br />";
+echo "<a href='index.html'>Home</a><br />";
 echo "<a href='academics.php'>Academics</a><br />";
 echo "<a href='technical.php'>Technical Skills</a><br />";
 echo "<a href='login.php'>Login</a><br />";
